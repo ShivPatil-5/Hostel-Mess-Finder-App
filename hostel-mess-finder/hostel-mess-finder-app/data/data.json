@@ -59,10 +59,7 @@
       "photo": "",
       "rent": 4800,
       "rooms": [],
-      "rules": [
-        "Gate closes at 11 PM",
-        "Deposit Rs 2000"
-      ],
+      "rules": ["Gate closes at 11 PM", "Deposit Rs 2000"],
       "totalBeds": 16,
       "type": "Boys",
       "vacantBeds": 0
@@ -88,11 +85,7 @@
           "sharing": 3
         }
       ],
-      "rules": [
-        "Gate closes at 10 PM",
-        "No smoking",
-        "Deposit Rs 2500"
-      ],
+      "rules": ["Gate closes at 10 PM", "No smoking", "Deposit Rs 2500"],
       "totalBeds": 10,
       "type": "Boys",
       "vacantBeds": 4

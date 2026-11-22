@@ -1,0 +1,5 @@
+id,name,type,monthly_price,lat,lon,lunch_start,lunch_end,dinner_start,dinner_end
+m1,Annapurna Mess,Veg,2800,18.5253,73.8567,12,15,19,22
+m2,Tasty Tiffin,Both,3200,18.5215,73.8580,12,14,19,21
+m3,Shiv Bhojanalaya,Veg,2500,18.5140,73.8600,0,0,19,22
+m4,Maa Kitchen,Both,3000,18.5210,73.8670,12,15,19,22

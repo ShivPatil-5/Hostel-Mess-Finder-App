@@ -1,0 +1,147 @@
+{
+  "hostels": [
+    {
+      "distanceKm": 0.4,
+      "id": "h1",
+      "name": "Sai Nivas Boys Hostel",
+      "nearestMessM": 145,
+      "nearestMessName": "Annapurna Mess",
+      "phone": "9876543210",
+      "photo": "",
+      "rent": 5500,
+      "rooms": [
+        {
+          "beds": 1,
+          "room": "204",
+          "sharing": 3
+        },
+        {
+          "beds": 1,
+          "room": "108",
+          "sharing": 2
+        }
+      ],
+      "rules": [
+        "Gate closes at 10:30 PM",
+        "No guests after 8 PM",
+        "Deposit Rs 3000"
+      ],
+      "totalBeds": 12,
+      "type": "Boys",
+      "vacantBeds": 2
+    },
+    {
+      "distanceKm": 0.9,
+      "id": "h2",
+      "name": "Shree Ladies Hostel",
+      "nearestMessM": 356,
+      "nearestMessName": "Annapurna Mess",
+      "phone": "9876543211",
+      "photo": "",
+      "rent": 6200,
+      "rooms": [],
+      "rules": [
+        "Gate closes at 9:30 PM",
+        "No male visitors",
+        "Deposit Rs 4000"
+      ],
+      "totalBeds": 20,
+      "type": "Girls",
+      "vacantBeds": 1
+    },
+    {
+      "distanceKm": 1.1,
+      "id": "h3",
+      "name": "Gokul Student Home",
+      "nearestMessM": 85,
+      "nearestMessName": "Maa Kitchen",
+      "phone": "9876543212",
+      "photo": "",
+      "rent": 4800,
+      "rooms": [],
+      "rules": [
+        "Gate closes at 11 PM",
+        "Deposit Rs 2000"
+      ],
+      "totalBeds": 16,
+      "type": "Boys",
+      "vacantBeds": 0
+    },
+    {
+      "distanceKm": 1.5,
+      "id": "h4",
+      "name": "Om Sai PG",
+      "nearestMessM": 863,
+      "nearestMessName": "Shiv Bhojanalaya",
+      "phone": "9876543213",
+      "photo": "",
+      "rent": 5000,
+      "rooms": [
+        {
+          "beds": 1,
+          "room": "305",
+          "sharing": 2
+        },
+        {
+          "beds": 2,
+          "room": "306",
+          "sharing": 3
+        }
+      ],
+      "rules": [
+        "Gate closes at 10 PM",
+        "No smoking",
+        "Deposit Rs 2500"
+      ],
+      "totalBeds": 10,
+      "type": "Boys",
+      "vacantBeds": 4
+    }
+  ],
+  "messes": [
+    {
+      "dinnerEnd": 22,
+      "dinnerStart": 19,
+      "distanceM": 545,
+      "id": "m1",
+      "lunchEnd": 15,
+      "lunchStart": 12,
+      "monthlyPrice": 2800,
+      "name": "Annapurna Mess",
+      "type": "Veg"
+    },
+    {
+      "dinnerEnd": 21,
+      "dinnerStart": 19,
+      "distanceM": 184,
+      "id": "m2",
+      "lunchEnd": 14,
+      "lunchStart": 12,
+      "monthlyPrice": 3200,
+      "name": "Tasty Tiffin",
+      "type": "Both"
+    },
+    {
+      "dinnerEnd": 22,
+      "dinnerStart": 19,
+      "distanceM": 792,
+      "id": "m3",
+      "lunchEnd": 0,
+      "lunchStart": 0,
+      "monthlyPrice": 2500,
+      "name": "Shiv Bhojanalaya",
+      "type": "Veg"
+    },
+    {
+      "dinnerEnd": 22,
+      "dinnerStart": 19,
+      "distanceM": 1088,
+      "id": "m4",
+      "lunchEnd": 15,
+      "lunchStart": 12,
+      "monthlyPrice": 3000,
+      "name": "Maa Kitchen",
+      "type": "Both"
+    }
+  ]
+}

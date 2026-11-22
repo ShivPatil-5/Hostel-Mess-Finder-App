@@ -1,0 +1,5 @@
+id,name,type,rent,total_beds,vacant_beds,lat,lon,phone,photo,rules,rooms
+h1,Sai Nivas Boys Hostel,Boys,5500,12,2,18.5240,73.8567,9876543210,,Gate closes at 10:30 PM|No guests after 8 PM|Deposit Rs 3000,204:3:1|108:2:1
+h2,Shree Ladies Hostel,Girls,6200,20,1,18.5285,73.8567,9876543211,,Gate closes at 9:30 PM|No male visitors|Deposit Rs 4000,
+h3,Gokul Student Home,Boys,4800,16,0,18.5204,73.8675,9876543212,,Gate closes at 11 PM|Deposit Rs 2000,
+h4,Om Sai PG,Boys,5000,10,4,18.5069,73.8567,9876543213,,Gate closes at 10 PM|No smoking|Deposit Rs 2500,305:2:1|306:3:2
